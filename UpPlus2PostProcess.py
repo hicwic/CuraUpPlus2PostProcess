@@ -25,7 +25,7 @@ class UpPlus2PostProcess(Script):
             "name":"Up Plus 2 PostProcess",
             "key": "UpPlus2PostProcess",
             "metadata": {},
-            "version": 3,
+            "version": 2,
             "settings": {
                 "UP_profile":
                 {
